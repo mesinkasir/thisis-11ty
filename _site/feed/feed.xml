@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Thisis Classic SEO template</title>
+	<subtitle>Super SEO for built your site and blog with this is 11ty eleventy.</subtitle>
+	
+	<link href="https://example.com/feed/feed.xml" rel="self"/>
+	<link href="https://example.com/"/>
+	<updated>2022-04-15T00:00:00Z</updated>
+	<id>https://example.com/</id>
+	<author>
+		<name>thisis11ty</name>
+		<email>axcora@gmail.com</email>
+	</author>
+	
+	<entry>
+		<title>This is my template.</title>
+		<link href="https://example.com/posts/template/"/>
+		<updated>2022-04-15T00:00:00Z</updated>
+		<id>https://example.com/posts/template/</id>
+		<content type="html">&lt;p&gt;This is a display &lt;a href=&quot;https://11ty.dev/&quot;&gt;theme template&lt;/a&gt; that was built using the latest and modern eleventy 11ty site static generator, with a clean white design that will be better for the reader&#39;s eyes, and of course you can also download this theme on the github repo or you can also choose various themes on the eleventy website for various alternatives.&lt;/p&gt;
+&lt;p&gt;Dan ya ini adalah tema display yang dibangun menggunakan &lt;a href=&quot;https://11ty.dev/&quot;&gt;eleventy 11ty generator statis site terbaru&lt;/a&gt; dan modern , dengan desain yang bersih warna putih akan lebih baik untuk mata pembaca , dan tentunya kalian juga bisa mengunduh tema ini pada repo github atau kamu juga bisa memilih berbagai tema di website eleventy untuk berbagai pilihan alternatif.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>This is static site generator.</title>
+		<link href="https://example.com/posts/staticsitegenerator/"/>
+		<updated>2022-04-15T00:00:00Z</updated>
+		<id>https://example.com/posts/staticsitegenerator/</id>
+		<content type="html">&lt;p&gt;There are many &lt;a href=&quot;https://11ty.dev/&quot;&gt;static site generators&lt;/a&gt; available, but for convenience and freedom of experimentation to its ability to support SEO, Eleven has it all, with 11ty making your site stronger and faster to support auto SEO, 11ty is the best priority for you to develop websites and blogs.&lt;/p&gt;
+&lt;p&gt;Banyak generator static site yang ada , tetapi untuk urusan kemudahan dan kebebasan bereksperimen hingga kemampuan nya untuk menunjang SEO maka eleventy memiliki semua nya, dengan 11ty menjadikan situs lebih kuat dan cepat serta dukungan auto &lt;a href=&quot;https://11ty.dev/&quot;&gt;SEO&lt;/a&gt; nya , maka eleventy 11ty adalah prioritas utama terbaik untuk mu dalam mengembangkan website dan blog.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>This is my 11ty project.</title>
+		<link href="https://example.com/posts/project/"/>
+		<updated>2022-04-15T00:00:00Z</updated>
+		<id>https://example.com/posts/project/</id>
+		<content type="html">&lt;p&gt;We have developed several open source codes for &lt;a href=&quot;https://11ty.dev/&quot;&gt;Eleventy&lt;/a&gt;, specifically for the need for template themes, various options you can use in creating websites or blogs to mobile webs and making Android with Eleventy is also very possible, immediately click the link on the menu to go to the open source code information. , and download it for free.&lt;/p&gt;
+&lt;p&gt;Kami telah mengembangkan beberapa kode sumber terbuka untuk eleventy khusus nya pada kebutuhan tema template, berbagai pilihan bisa kamu gunakan dalam membuat website maupun blog hingga mobile web dan membuat android dengan eleventy pun sangat memungkinkan , segera klik link pada menu untuk menuju ke informasi kode sumber terbuka, dan unduh secara gratis.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://eleventyblog.vercel.app/&quot;&gt;bootstrap11ty →&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://text11ty.pages.dev/&quot;&gt;text11ty →&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mobile11ty.pages.dev/&quot;&gt;mobile11ty →&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>This is eleventy 11ty.</title>
+		<link href="https://example.com/posts/eleventy/"/>
+		<updated>2022-04-15T00:00:00Z</updated>
+		<id>https://example.com/posts/eleventy/</id>
+		<content type="html">&lt;p&gt;11ty is one of my favorite clan of static site generators for developing modern websites quickly and with powerful SEO&lt;br /&gt;
+Ease of expression and expansion is what makes me love him so much.&lt;/p&gt;
+&lt;h3 id=&quot;codding-structure&quot;&gt;Codding Structure &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/eleventy/#codding-structure&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;A simple but very complete face-to-face provides convenience for developers in develope a project using &lt;a href=&quot;https://11ty.dev/&quot;&gt;eleventy 11ty&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ini adalah generator static site modern yang dikembangkan menggunakan eleventy 11ty , sebuah solusi terbaik dalam membangun project blog dan situs dengan cepat pun penuh dengan SEO nya.&lt;/p&gt;
+&lt;p&gt;Tidak perlu ribet lagi akan integrasi database, dan bekerja dengan markdown file cukup membantu dalam mempercepat kebutuhan untuk sekedar ngeblog, membuat artikel dan berbagai aktifitas lain nya.&lt;/p&gt;
+&lt;p&gt;Dan saat nya kini kamu update serta upgrade website mu dan beralih ke &lt;a href=&quot;https://11ty.dev/&quot;&gt;eleventy 11ty&lt;/a&gt; untuk solusi terbaik bagi situs mu.&lt;/p&gt;
+</content>
+	</entry>
+</feed>
