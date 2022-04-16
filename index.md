@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# This is Classic Blog SEO 11ty
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/thisis-11ty/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![thesis eleventy 11ty free download template](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEKVCc25gwFn-4XdEfeGiQSIw_YjXFT2e4T5ROFxqBahfUE2nYB3ji9CfN58CwwTg9sEDpn8k76_6Ano3HprkFUmOn3qoyQuJa2q-rRSOkx0YoIIwyg4GFpGHQLx5qqxcbEu1mnoYe5MDQ5T1hUj-HwXVpheZZ4qHFdXpVV9o9YosefkCnQRPKLH8w0A/s1920/free%20seo%20blog%20template%20thesis%20(2).jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+free source code for eleventy 11ty themes
 
-### Markdown
+Documentation & Live codding : [https://www.hockeycomputindo.com/2022/04/membangun-website-blog-seo-dengan-11ty.html →](https://www.hockeycomputindo.com/2022/04/membangun-website-blog-seo-dengan-11ty.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Test drive demo [https://thisis11ty.netlify.app/ →](https://thisis11ty.netlify.app/)
 
-```markdown
-Syntax highlighted code block
+----------------------------
 
-# Header 1
-## Header 2
-### Header 3
+![thesis eleventy 11ty free download template](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwbnwiGrT3DZIvqdHUUx9cuJjcO6xlO6dPAXxxDn83O7d5BLeTbDFV9o_L5tjFH8ADn8m6SiXHFxdbUtvMRVW-Gi-ie83YyXWt9ZCGXra_s7H8damhrze7gYkagX2ZXS-AuYKvJ-y5B1WNKKcyMNXLv0AXxOnzz-Z6qvmfKdnAYxu7JFKvwEfiVk1l_A/s1349/thesis%20web%20template%20free%20download%20source%20code%20gratis%20(2).png)
 
-- Bulleted
-- List
+Test drive lighthouse
 
-1. Numbered
-2. List
+![thesis eleventy 11ty free download template](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj77YM_dTI8vIUCLrTYynuqAy7w9LhvfOKlBDifbFlMjVIwluPLrMvmr8kMWBS-w-vcx5YgnPF7HX2_U3wmYMXH3AgAr2jlUTqraW5UtuDClfY-yEYie6_lfuZmIyCZMDnDP2hoDX1QuPZyPScSo5mT23ol35WD2_ZnRLC5VF1kV5xgMFexOSzaxMgBig/s1920/free%20seo%20blog%20template%20thesis%20(1).jpg)
 
-**Bold** and _Italic_ and `Code` text
+Mobile first support
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![thesis eleventy 11ty free download template](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFJhfeum4HyixVYMQG-Eup2ZaXwDVDOLyPR04JChTwoAr8he9KMg7bkpO-Czi6CzI7aiao7jO7RAbQ0HTVRjBhwXh62vQpb9A6MBXzxhPoupJnfKsD17U2i5nNVHXcpra-b65T85A5lkPRrjsbH15_SKIefkVQj4fSee_qwzBLH83IvXwjimRJBxxG5A/s1349/thesis%20web%20template%20free%20download%20source%20code%20gratis%20(1).png)
 
-### Jekyll Themes
+Desktop version.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/thisis-11ty/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
