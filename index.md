@@ -6,7 +6,9 @@ free source code for eleventy 11ty themes
 
 Documentation & Live codding : [https://www.hockeycomputindo.com/2022/04/membangun-website-blog-seo-dengan-11ty.html →](https://www.hockeycomputindo.com/2022/04/membangun-website-blog-seo-dengan-11ty.html)
 
-Test drive demo [https://thisis11ty.netlify.app/ →](https://thisis11ty.netlify.app/)
+Test drive demo [https://thisis11ty.netlify.app →](https://thisis11ty.netlify.app/)
+
+demo with image [https://programrestoran.web.app →](https://programrestoran.web.app/)
 
 Video demo : [https://youtu.be/tKsZujvPK24 →](https://youtu.be/tKsZujvPK24)
 
@@ -32,7 +34,9 @@ free source code for eleventy 11ty themes
 
 Documentation & Live codding : [https://www.hockeycomputindo.com/2022/04/membangun-website-blog-seo-dengan-11ty.html →](https://www.hockeycomputindo.com/2022/04/membangun-website-blog-seo-dengan-11ty.html)
 
-Test drive demo [https://thisis11ty.netlify.app/ →](https://thisis11ty.netlify.app/)
+Test drive demo [https://thisis11ty.netlify.app →](https://thisis11ty.netlify.app/)
+
+demo with image [https://programrestoran.web.app →](https://programrestoran.web.app/)
 
 Video demo : [https://youtu.be/tKsZujvPK24 →](https://youtu.be/tKsZujvPK24)
 
