@@ -1,0 +1,29 @@
+{
+  "title": "Thisis Classic SEO template",
+  "name": "Thisis",
+  "url": "https://example.com/",
+  "language": "en",
+  "cover": "https://text11ty.pages.dev/img/webcepat.png",
+  "description": "Super SEO for built your site and blog with this is 11ty eleventy.",
+  "feed": {
+    "subtitle": "Super SEO for built your site and blog with this is 11ty eleventy.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "nav": {
+    "menu2": "Tutor",
+    "url2": "https://www.hockeycomputindo.com/2022/04/membuat-website-dengan-eleventy.html",
+    "menu3": "Developer",
+    "url3": "https://eleventy.web.app/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "thisis11ty",
+    "email": "axcora@gmail.com",
+    "url": "https://eleventy.web.app/"
+  }
+}

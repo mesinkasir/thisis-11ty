@@ -1,0 +1,29 @@
+ <main{% if templateClass %} class="{{ templateClass }} col-md-7 p-3"{% endif %}>
+      {{ content | safe }}
+    </main>
+<div class="col-md-5 p-3">
+<p class="intro text-center bg-dark text-white p-3 p-md-5 rounded">11<span class="here">ty</span></p>
+<div class="row mt-3">
+<div class="col-md-4">
+<h5>Menu</h5>
+{%- for entry in collections.all | eleventyNavigation %}
+<small> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/>
+</svg> <a href="{{ entry.url | url }}">{{ entry.title }}</a><br/></small>
+   {%- endfor %}
+   </div>
+
+<section class="p-1 col-md-8 bg-light">
+<h5>{{metadata.title}}</h5>
+<p>{{metadata.description}}</p>
+</section>
+</div>
+<hr/>
+<h5>Tagging</h5>
+<p><small>
+{% for tag in collections.tagList | filterTagList %}
+  {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+<a href="{{ tagUrl | url }}">{{ tag }}</a> , 
+{% endfor %}
+</small></p>
+</div>
