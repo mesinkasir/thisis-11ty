@@ -1,7 +1,8 @@
 {
   "title": "Thisis Classic SEO template",
   "name": "Thisis",
-  "url": "https://example.com/",
+  "googlesitevertification": "4dtv9OQNf-WVMkxotvRSrDdwg1R02GjWZPMGy-TwK1A",
+  "url": "https://thisis11ty.netlify.app/",
   "language": "en",
   "cover": "https://text11ty.pages.dev/img/webcepat.png",
   "description": "Super SEO for built your site and blog with this is 11ty eleventy.",
@@ -9,11 +10,11 @@
     "subtitle": "Super SEO for built your site and blog with this is 11ty eleventy.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://thisis11ty.netlify.app/"
   },
   "nav": {
     "menu2": "Tutor",
-    "url2": "https://www.hockeycomputindo.com/2022/04/membuat-website-dengan-eleventy.html",
+    "url2": "https://www.hockeycomputindo.com/2022/04/membangun-website-blog-seo-dengan-11ty.html",
     "menu3": "Developer",
     "url3": "https://eleventy.web.app/"
   },
