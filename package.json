@@ -16,17 +16,17 @@
   "author": {
     "name": "Creative by dre",
     "email": "axcora@gmail.com",
-    "url": "https://axcora.com/"
+    "url": "https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll"
   },
   "license": "MIT",
   "homepage": "https://eleventy.web.app/",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "@11ty/eleventy-navigation": "^0.1.6",
-    "@11ty/eleventy-plugin-rss": "^1.1.1",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.0",
-    "luxon": "^1.26.0",
+    "@11ty/eleventy": "^2.0.0-canary.14",
+    "@11ty/eleventy-navigation": "^0.3.3",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0",
+    "luxon": "^3.0.1",
     "markdown-it": "^12.0.4",
-    "markdown-it-anchor": "^7.1.0"
+    "markdown-it-anchor": "^8.6.4"
   }
 }
