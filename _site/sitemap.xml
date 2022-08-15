@@ -37,6 +37,16 @@
   </url>
   
   <url>
+    <loc>https://thisis11ty.netlify.app/page-list/</loc>
+    <lastmod>2022-08-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisis11ty.netlify.app/tags/</loc>
+    <lastmod>2022-08-15</lastmod>
+  </url>
+  
+  <url>
     <loc>https://thisis11ty.netlify.app/tags/eleventy/</loc>
     <lastmod>2022-08-15</lastmod>
   </url>
@@ -83,16 +93,6 @@
   
   <url>
     <loc>https://thisis11ty.netlify.app/tags/website/</loc>
-    <lastmod>2022-08-15</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thisis11ty.netlify.app/page-list/</loc>
-    <lastmod>2022-08-15</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thisis11ty.netlify.app/tags/</loc>
     <lastmod>2022-08-15</lastmod>
   </url>
 </urlset>
