@@ -24,5 +24,6 @@ Kami telah mengembangkan beberapa kode sumber terbuka untuk eleventy khusus nya 
 - [mobile11ty →](https://mobile11ty.pages.dev/)
 - [cuteblog11ty →](https://cuteblog.pages.dev/)
 - [cool11ty →](https://statisweb.pages.dev/)
+- [shop11ty →](https://11tyshop.pages.dev/)
 
 If you need built powerfull website with eleventy 11ty so [hire me →](https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll)
