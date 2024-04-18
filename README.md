@@ -12,8 +12,6 @@ demo with image [https://programrestoran.web.app →](https://programrestoran.we
 
 Video demo : [https://youtu.be/tKsZujvPK24 →](https://youtu.be/tKsZujvPK24)
 
-<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
-
 ----------------------------
 
 ![thesis eleventy 11ty free download template](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwbnwiGrT3DZIvqdHUUx9cuJjcO6xlO6dPAXxxDn83O7d5BLeTbDFV9o_L5tjFH8ADn8m6SiXHFxdbUtvMRVW-Gi-ie83YyXWt9ZCGXra_s7H8damhrze7gYkagX2ZXS-AuYKvJ-y5B1WNKKcyMNXLv0AXxOnzz-Z6qvmfKdnAYxu7JFKvwEfiVk1l_A/s1349/thesis%20web%20template%20free%20download%20source%20code%20gratis%20(2).png)
@@ -42,5 +40,20 @@ demo with image [https://programrestoran.web.app →](https://programrestoran.we
 
 Video demo : [https://youtu.be/tKsZujvPK24 →](https://youtu.be/tKsZujvPK24)
 
+Hire me : [https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll](https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll)
 
-<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
+----
+
+### 💖 Thanks for Sponsor 🤞
+
+<a href="https://www.adamdjbrett.com/" target="_blank"><img src="https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/assets/img/open-graph-logo.png?raw=true" alt="adamdjbrett" width="195" height="195"/></a> <a href="https://www.grandlimousine.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/136876765?v=4" alt="grandlimousine 1" width="195" height="195"/></a> <a href="https://lk-fiduciaire.ch/" target="_blank"><img style="background-color:black;" src="https://res.cloudinary.com/dxzzbiy9d/image/upload/f_webp/v1712407675/2-removebg-preview_hbnowz.png" alt="Swiss Chief Financial" width="195" height="195"/></a> <a href="https://www.hockeycomputindo.com/themes/" target="_blank"><img src="https://www.hockeycomputindo.com/img/hockeycompcarwebsite.jpg" alt="hockeycorp" width="195" height="195"/></a> <a href="https://fiverr.com/creativitas/" target="_blank"><img src="https://creativitas.github.io//assets/img/creativitaswebdev.webp" alt="creativitas" width="195" height="195"/></a>
+
+----
+
+### [🚀 Become a Sponsor](https://github.com/sponsors/mesinkasir) | [☕ Buy me Coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN)
+
+----
+
+### 🥇 Supporter 👨🏻‍🚀
+
+<a href="https://github.com/adamdjbrett"><img src="https://avatars.githubusercontent.com/u/22662978?v=4" alt="Adam DJ Brett" width="80" height="80"/></a> <a href="https://github.com/grandlimo/"><img src="https://avatars.githubusercontent.com/u/136876765?v=4" width="80" height="80" alt="grandlimousine"/></a> <a href="https://github.com/Dustcloudman"><img alt="Dustcloudman" src="https://avatars.githubusercontent.com/u/103728037?v=4" width="80" height="80"/></a> <a href="https://github.com/creativebydre"><img alt="creativebydre" src="https://avatars.githubusercontent.com/u/70264436?v=4" width="80" height="80"/></a> <a href="https://github.com/creativitas"><img alt="creativitas" src="https://avatars.githubusercontent.com/u/112189857?v=4" width="80" height="80"/></a>
